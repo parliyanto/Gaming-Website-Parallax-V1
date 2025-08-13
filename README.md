@@ -53,7 +53,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/parliyanto/Gaming-Website-Parallax-V1.git
+git clone https://github.com/parliyanto/Parallax-Awards-Gaming-Website.git
 ```
 
 **Installation**
